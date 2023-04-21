@@ -1,0 +1,9 @@
+// Name: Vishwam Shailesh Kapadia
+// Seneca Student ID: 154933212
+// Seneca email: vkapadia3@myseneca.ca
+// Date of completion: 13-12-2022
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+The final project gave me knowledge of many things which included playing with many classes such as station, customerorder, workstation, etc. The lectures and class notes helped me a lot while solving the project.I also created Customerorder  class that manages a single order on the assembly line. That contains the detail about the customer name, name of the product, and the total number of products. And I created Linemanager class that manages the status of active stations. Hence, it was good learning the subject and gave a good grip in C++.

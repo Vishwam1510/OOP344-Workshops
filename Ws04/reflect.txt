@@ -1,0 +1,16 @@
+/*
+*****************************************************************************
+                          Workshop - #4
+Full Name  : Vishwam Shailesh Kapadia
+Student ID#: 154933212
+Email      : vkapadia3@myseneca.ca
+Section    : NBB
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+Workshop 04 taught me how to deal with compositions and aggregations class relationships. The concept of composition and aggregation in coding is as interesting as its theory. Moreover, designing and coding a class that contains such relationships was done for the first time by me. Although I faced some issues while coding it as it was my first time dealing with compositions and aggregations, I covered the errors by going through class notes thoroughly. Moreover, there is a difference between implementing a composition and implementing an aggregation as in aggregation the child class can exist independently of the parent whereas it cannot happen in composition. Moreover, the composition is a relationship where child class cannot exist independently as they both rely on each other as one cannot exist without another. All in all, I got a brief idea about composition and aggregation in this workshop and I am sure that it will help me in my future codes.
